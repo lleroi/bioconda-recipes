@@ -73,3 +73,4 @@ about:
   home: https://github.com/geraldinepascal/FROGS
   license: 'GNU GPL v3'
   summary: 'FROGS is a workflow designed to produce an OTUs count matrix from high depth sequencing amplicon data. This is the official release 3.1.0 of FROGS.'
+
